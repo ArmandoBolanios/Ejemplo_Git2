@@ -1,3 +1,0 @@
-Esta es la primera llanta
-Es de color roja y con unas tiras. Modificación.
-Modificación rueda 1 para hacer commit
